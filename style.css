@@ -1,0 +1,25 @@
+h1 {
+	font-family: 'Roboto Condensed', sans-serif;
+	text-align: center;
+	color: white;
+	font-size: 80px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;  
+	margin-top: 200px;
+}
+
+.btn {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body {
+	background-image: url(https://i.pinimg.com/originals/c1/b0/7a/c1b07a4b6f366cfc5bb199ea46c3122c.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}	
